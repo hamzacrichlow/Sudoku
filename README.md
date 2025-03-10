@@ -1,6 +1,8 @@
 # Sudoku - Command Line Interface
 The classic puzzle game Sudoku implemented as a command line interface game. This project focuses on game logic and terminal-based user experience, making strategic use of command line capabilities to create an engaging gameplay experience.
+<img width="1369" alt="Image" src="https://github.com/user-attachments/assets/44634ca7-188d-437f-adb3-8c5da2450d53" />
 
+<img width="1139" alt="Image" src="https://github.com/user-attachments/assets/4a9558ca-4ad7-444f-9ae6-fdf9162dcd65" />
 
 ## How to Play Sudoku Command Line Interface
 Sudoku CLI brings the popular puzzle game to your terminal with a focus on accessibility and clear gameplay. Players are presented with a partially filled 9x9 grid divided into 3x3 subgrids. The objective is to fill in all empty spaces with numbers 1-9 without repeating any number in the same row, column, or 3x3 box.
