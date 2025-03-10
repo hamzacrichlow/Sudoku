@@ -1,5 +1,5 @@
 # Sudoku - Command Line Interface
-A classic Sudoku puzzle game implemented as a command line interface application. This project focuses on robust game logic and an intuitive terminal-based user experience, making strategic use of command line capabilities to create an engaging gameplay experience.
+The classic puzzle game Sudoku implemented as a command line interface game. This project focuses on game logic and terminal-based user experience, making strategic use of command line capabilities to create an engaging gameplay experience.
 
 
 ## How to Play Sudoku Command Line Interface
